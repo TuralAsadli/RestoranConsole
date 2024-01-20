@@ -1,0 +1,14 @@
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\bin\Debug\net7.0\RestaraunConsoleApp.exe
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\bin\Debug\net7.0\RestaraunConsoleApp.deps.json
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\bin\Debug\net7.0\RestaraunConsoleApp.runtimeconfig.json
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\bin\Debug\net7.0\RestaraunConsoleApp.dll
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\bin\Debug\net7.0\RestaraunConsoleApp.pdb
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\RestaraunConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\RestaraunConsoleApp.AssemblyInfoInputs.cache
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\RestaraunConsoleApp.AssemblyInfo.cs
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\RestaraunConsoleApp.csproj.CoreCompileInputs.cache
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\RestaraunConsoleApp.dll
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\refint\RestaraunConsoleApp.dll
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\RestaraunConsoleApp.pdb
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\RestaraunConsoleApp.genruntimeconfig.cache
+E:\Projects\RestaraunConsoleApp\RestaraunConsoleApp\obj\Debug\net7.0\ref\RestaraunConsoleApp.dll
